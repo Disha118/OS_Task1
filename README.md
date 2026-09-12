@@ -73,7 +73,7 @@ The animation shows:
 - 🟠 **Matrix C** – the result matrix fills in live, row by row, as threads complete their work.
 
 # Animation Output
-
+https://github.com/Disha118/OS_Task1/blob/669a37f02bb2bb7327cdb0c21ee062192a596187/matrix_multiplication.gif
 
 
 ### ▶️ Installation
