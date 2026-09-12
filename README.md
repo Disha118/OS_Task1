@@ -74,6 +74,7 @@ The animation shows:
 
 # Animation Output
 
+matrix_multiplication.gif
 
 ### ▶️ Installation
 Install the required packages:pip install torch matplotlib
